@@ -1,5 +1,7 @@
 <img src="media/principal.jpg" alt="Welcome-image" style="border-radius: 30px">
 
+<div style="text-align: justify">
+
 # ⚪ Introducción a la Robótica Simulada ⚪
 
 La relevancia de la Robótica Simulada ha aumentado con el pasar de los años, sin duda se ha convertido en uno de los campos de estudio que se ha desarrollado enormemente y nos ha permitido realizar tareas relacionadas a la robótica física.
@@ -17,3 +19,11 @@ Como se ha mencionado, el desarrolo de este campo nos permitió avanzar en Robó
 - Manipulación de sensores y físicas: Los ambientes simulados también nos permiten programar y configurar los componentes a nuestro gusto, además que los simuladores poseen algoritmos que imitan las físicas del mundo real, asegurando una representación muy fiel a lo que ocurriría en la vida real.
 
 ## ◻ Robótica Simulada para Competencias ◻
+
+Actualmente, las simulaciones nos han permitido construir y programar robots que puedan cumplir con distintos desafíos, dando surgimiento de esta manera a las competencias.
+
+Tanto a nivel Nacional como Internacional, existen competencias de Robótica Simulada las cuales están orientadas a potenciar la creatividad y habilidades tecnológicas de sus participantes, además del trabajo en equipo.
+
+El trabajo de cada Estudiante de Robótica Simulada es distinto, permitiéndole con estas herramientas introducirse a la Robótica, aprendiendo al mismo tiempo de qué manera funciona cada componente y su utilidad en aplicaciones reales.
+
+</div>
