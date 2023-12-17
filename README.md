@@ -18,6 +18,9 @@ Como se ha mencionado, el desarrolo de este campo nos permitió avanzar en Robó
 
 - Manipulación de sensores y físicas: Los ambientes simulados también nos permiten programar y configurar los componentes a nuestro gusto, además que los simuladores poseen algoritmos que imitan las físicas del mundo real, asegurando una representación muy fiel a lo que ocurriría en la vida real.
 
+<img src="media/epuck2.jpg" alt="Welcome-image" style="border-radius: 30px">
+
+
 ## ◻ Robótica Simulada para Competencias ◻
 
 Actualmente, las simulaciones nos han permitido construir y programar robots que puedan cumplir con distintos desafíos, dando surgimiento de esta manera a las competencias.
@@ -25,5 +28,7 @@ Actualmente, las simulaciones nos han permitido construir y programar robots que
 Tanto a nivel Nacional como Internacional, existen competencias de Robótica Simulada las cuales están orientadas a potenciar la creatividad y habilidades tecnológicas de sus participantes, además del trabajo en equipo.
 
 El trabajo de cada Estudiante de Robótica Simulada es distinto, permitiéndole con estas herramientas introducirse a la Robótica, aprendiendo al mismo tiempo de qué manera funciona cada componente y su utilidad en aplicaciones reales.
+
+<img src="media/competencia.jpg" alt="Welcome-image" style="border-radius: 30px">
 
 </div>
