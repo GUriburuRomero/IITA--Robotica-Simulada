@@ -1,4 +1,4 @@
-<img src="media/principal.jpg" alt="Welcome-image" style="border-radius: 14px">
+<img src="media/principal.jpg" alt="Welcome-image" style="border-radius: 30px">
 
 # Introducción a la Robótica Simulada
 
