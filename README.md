@@ -1,0 +1,1 @@
+![Alt text](/media/principal.jpg)
